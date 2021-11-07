@@ -16,7 +16,6 @@ const urlsToCache = ['assets/scripts/main.js',
                      'assets/images/icons/5-star.svg',
                      'assets/images/icons/arrow-down.png',
                      'favicon.ico',
-                     'sw.js',
                      './'
                     ]; 
 

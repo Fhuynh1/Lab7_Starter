@@ -1,1 +1,2 @@
-# Lab 7 - Starter Code
+# Lab 7
+Group members: Fione Huynh, Farnia Nafarifard
